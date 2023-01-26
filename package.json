@@ -1,0 +1,19 @@
+{
+  "name": "AndroidRoadmap",
+  "version": "0.0.1",
+  "description": "Android Roadmap created by CFT Team",
+  "main": "index.js",
+  "authors": {
+    "name": "Emil Murtazin",
+    "email": "murtazin.jar@gmail.com"
+  },
+  "repository": "AndroidRoadmap/Android Roadmap",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
